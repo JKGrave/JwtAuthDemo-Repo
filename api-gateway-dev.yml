@@ -28,10 +28,6 @@ zuul:
       strip-prefix: false
   ignored-patterns: /auth/**
 
-spring:
-  application:
-    name: api-gateway
-
 logging:
   level:
     org:
